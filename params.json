@@ -1,0 +1,1 @@
+{"name":"Theme","tagline":"theme test","body":"title: This will be used as the title-tag of the page head\r\n# This is a H1\r\n\r\n[the clickable text](http://xlson.com/)\r\n\r\n* Bullet lists are also easy to create\r\n* One more[\r\n\r\npictures](gorxguide.io/pictures)","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
